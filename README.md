@@ -2,9 +2,6 @@
 
 
 
-
-
-
 # How Knowledge Base Stores Information
 
 The knowledge base in a RAG system stores information through a **three-stage process** involving embeddings and vector databases:
